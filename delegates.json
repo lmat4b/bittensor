@@ -64,4 +64,9 @@
         "url": "www.tensor.exchange", 
         "description": "Bittensor's first community OTC exchange"
     }
+    "5HnHhEj5HxMLXBsXoBftWGJs4kQQ5fKTHmKWgaoz5Mn3ZijZ": {
+        "name": "Universidad Bittensor", 
+        "url": "", 
+        "description": "Validador de Bittensor con el fin de apoyar el desarrollo de proyectos de universidades y academias hispanohablantes en los campos de Inteligencia Artificial y ML."
+    }
 }
